@@ -1,6 +1,4 @@
-
 // Package main implements the main function for goman
-
 package main
 
 import "fmt"
