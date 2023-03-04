@@ -1,4 +1,6 @@
-// Package main implements the main or start up code for goman
+
+// Package main implements the main function for goman
+
 package main
 
 import "fmt"
