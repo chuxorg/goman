@@ -2,14 +2,14 @@
 id: xkcu7
 title: added comment to main package
 file_version: 1.1.2
-app_version: 1.3.5
+app_version: 1.3.7
 ---
 
 `📄 cmd`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 cmd/main.go
 ```go
-1      // Package main implements the main or start up code for goman
+2      // Package main implements the main function for goman
 ```
 
 <br/>
